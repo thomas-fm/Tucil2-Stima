@@ -9,3 +9,5 @@ Pastikan terinstall python. Program berhasil berjalan menggunakan python versi *
 ### Windows
 > $ python 13519099.py
 4. Masukkan nama file testing **[1-8].txt**
+## Author
+Thomas Ferdinand Martin - 13519099
