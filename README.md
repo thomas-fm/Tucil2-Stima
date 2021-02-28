@@ -1,9 +1,9 @@
 ## Penjelasan
-Algoritma Decrease and Conquer digunakan pada algoritma topological sort pada graf tipe DAG. Decrease and conquer dilakukan dengan menghapus simpul yang memiliki derajat masuk 0 dari graf dan menghapus sisi yang terhubung dari simpul itu. Simpul-simpul yang terhapus merupakan kode mata kuliah yang dapat diambil pada semester tersebut. Penghapusan dan pencatatan dilakukan hingga graf tidak lagi memiliki simpul.
+Algoritma Decrease and Conquer digunakan pada topological sort pada graf tipe DAG. Decrease and conquer dilakukan dengan menghapus simpul yang memiliki derajat masuk 0 dari graf dan menghapus sisi yang terhubung dari simpul itu. Simpul-simpul yang terhapus merupakan kode mata kuliah yang dapat diambil pada semester tersebut. Penghapusan dan pencatatan dilakukan hingga graf tidak lagi memiliki simpul.
 ## Requirement
-Program berhasil dijalankan menggunakan python versi **3.9.0**
+Pastikan terinstall python. Program berhasil berjalan menggunakan python versi **3.9.0**
 ## Cara penggunaan
-1. Buka terminal
+1. Buka command line interface
 2. Arahkan ke dalam folder src
 3. Lakukan run pada program  
 ### Windows
