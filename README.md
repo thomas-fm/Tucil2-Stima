@@ -5,7 +5,7 @@ Program berhasil dijalankan menggunakan python versi **3.9.0**
 ## Cara penggunaan
 1. Buka terminal
 2. Arahkan ke dalam folder src
-3. Lakukan run pada program \n
+3. Lakukan run pada program  
 Windows
 > python 13519099.py
 4. Masukkan nama file testing **[1-8].txt**
